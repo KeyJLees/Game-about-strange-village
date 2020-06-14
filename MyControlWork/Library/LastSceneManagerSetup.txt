@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/albertvariant.unity
+- path: Assets/Scenes/day2.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
